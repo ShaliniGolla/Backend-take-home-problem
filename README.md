@@ -32,3 +32,57 @@ python pubmed_scraper.py
   -f: Specify a custom filename to save the results in CSV format.
   
   If no CSV filename is provided, the results will be printed to the console
+  
+## **example**: 
+  Enter your PubMed query: cancer
+  
+  Choose an option:
+  
+  1 or -h for help or usage instructions, 
+  
+  2 or -d for debug info,
+  
+  3 or -f for specifying .csv filename,
+  
+  4 or enter any other value to exit,
+  
+  Enter your choice: 1
+  
+  Usage Instructions:
+    -h: Display help or usage instructions.
+    -d: Print debug information during execution.
+    -f: Specify a .csv filename to save the results.
+  
+  Choose an option:
+  
+  1 or -h for help or usage instructions
+  
+  2 or -d for debug info
+  
+  3 or -f for specifying .csv filename
+  
+  4 or enter any other value to exit
+  
+  Enter your choice: 2
+  
+  Debug Information: Debug mode enabled.
+  
+  Choose an option:
+  
+  1 or -h for help or usage instructions
+  
+  2 or -d for debug info
+  
+  3 or -f for specifying .csv filename
+  
+  4 or enter any other value to exit Enter your choice: 3
+  
+  Enter the filename to save the results (e.g., results.csv): examples.csv
+  
+  Results will be saved to examples.csv
+  
+  extracting article id:  1768410 title:  Tubeless translaryngeal superimposed jet ventilation.
+  
+  extracting article id:  2278368 title:  [Tube-free translaryngeal superposed jet ventilation].
+  
+  Data saved to examples.csv
