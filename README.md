@@ -81,8 +81,14 @@ python pubmed_scraper.py
   
   Results will be saved to examples.csv
   
-  extracting article id:  1768410 title:  Tubeless translaryngeal superimposed jet ventilation.
+  extracting article id:  28244479 title:  Cancer and cure: A critical analysis.
   
-  extracting article id:  2278368 title:  [Tube-free translaryngeal superposed jet ventilation].
+  extracting article id:  27741350 title:  Measuring cancer evolution from the genome. 
+  
+  extracting article id:  38175589 title:  Epidemiology of Cancer.
+  
+  extracting article id:  18538731 title:  Tumor cell metabolism: cancer's Achilles' heel.
+   
+  ...........
   
   Data saved to examples.csv
